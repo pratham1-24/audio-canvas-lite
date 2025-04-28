@@ -30,4 +30,3 @@ jobs:
 
     - name: Type check
       run: npm run typecheck || exit 1
-
